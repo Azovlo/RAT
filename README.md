@@ -36,7 +36,6 @@
     - Auto Starts when any notification arrives
  - No port forwarding needed
 
-<img align=center src=./.github/img.jpg >
 
 
 ## Requirements
